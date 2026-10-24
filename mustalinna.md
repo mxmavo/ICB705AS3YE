@@ -51,3 +51,7 @@ ________________________________________________________________________________
 # MUSTA LINNA
 
 Musta Linna (Black Castle) is a mysterious fortress of ancient stone walls, and hidden passages, where every shadow holds a story waiting to be discovered.
+
+
+# REFERENCE
+Karvinen (2023): https://terokarvinen.com/2023/palvelinten-hallinta-2023-kevat/
