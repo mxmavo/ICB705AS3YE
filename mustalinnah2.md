@@ -28,6 +28,9 @@ In my opinion, bad actors will continue trying to exploit the weakest points, su
 
 1. What are the key areas being researched?
 
+That review looks at AI from two perspectives, attack and defence. On attack, it covers both attacks on the AI itself like jailbreaking, prompt injection, reverse psychology but also
+AI used for cybercrime like phishing, social engineering, malware, payloads, reverse cryptography. On defence, GenAI helps automate dataset building, threat intelligence, and attack detection. A final part covers ethics, law and society.
+
 
 2. What's widely agreed upon?
 
