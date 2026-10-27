@@ -21,9 +21,18 @@ The article is published in *Internet of Things and Cyber-Physical Systems*, whi
 
 ## Review the review
 
-What are the key areas being researched?
-What's widely agreed upon?
-What are the open questions?
+It is pretty interesting to see how general and superficial the ideas in this review are compared to what we see in late 2026. AI is moving too fast, and this gives bad actors plenty of opportunities to use it for criminal activities.
+
+In my opinion, bad actors will continue trying to exploit the weakest points, such as the ethical limitations of AI agents. They may also try to place insiders in key companies, since humans will always be the weakest point in any defence system.
+
+
+1. What are the key areas being researched?
+
+
+2. What's widely agreed upon?
+
+
+3. What are the open questions?
 
 
 ## Threat modeling quickrun
