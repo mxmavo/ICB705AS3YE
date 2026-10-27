@@ -69,7 +69,7 @@ Jewellery Shop - the most important things for the shop are gold and diamonds, c
 
 **Likelihood:** Around 8% per year
 
-**Estimated annual loss:** `0.08 × €180 000 = €14 400/ year`.
+**Estimated annual loss:** 0.08 × €180 000 = €14 400/ year
 
 ---
 
@@ -89,7 +89,7 @@ Jewellery Shop - the most important things for the shop are gold and diamonds, c
 
 **Likelihood:** Around 12% per year.
 
-**Estimated annual loss:** `0.12 × €90 000 = €10 800/year`.
+**Estimated annual loss:** 0.12 × €90 000 = €10 800/year
 
 ---
 
@@ -111,3 +111,11 @@ We cannot completely eliminate this risk without closing the shop. One serious r
 For this reason, I think the best solution is to **reduce the risk and use insurance for the remaining risk**.
 
 ---
+
+
+# REFERENCE
+Karvinen (2023): https://terokarvinen.com/review-article/
+
+
+
+
