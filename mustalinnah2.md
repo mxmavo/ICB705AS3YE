@@ -47,13 +47,70 @@ AI used for cybercrime like phishing, social engineering, malware, payloads, rev
 -  Main future focus to build strong ethical norms and new defences, with interdisciplinary work
 
 
-## Threat modeling quickrun
+## Threat modeling quickrun Jewellery Shop
 
-Create two risks and decide what to do with them. Imagine the details. Be brief, but specific. (This task does not require technical tests on a computer)
-Company
-Crown jewels - data, business continuity, reputation, money.
-Bad guys - What do they want? How are they going to get it? Why us? (COI - Capability, Opportunity, Intent)
-List risks (only 2 example risks here). Likelyhood x impact = estimated value.
-Yes, euros please. And percents. Ballpark, but numbers required.
-Take biggest risk
-What shall we do with that one biggest risk (META - mitigate, eliminate, transfer, accept)
+# Risk Assessment – Jewellery Shop
+
+**Crown jewels:** Jewellery Shop - the most important things for the shop are gold and diamonds, cash, customer database (names and addresses of rich people).
+
+---
+
+## Risk 1 – Armed Robbery
+
+**What criminals want:** Gold, diamonds and other expensive jewellery that can be sold. Especially now, when gold prices are rising.
+
+**How:** Criminals can break display windows during the day or threaten employees when the shop is closing.
+
+**Why us (COI):**
+
+- **Capability:** criminal groups have experience with jewellery robberies, easy to resale or transfer
+- **Opportunity:** expensive jewellery is visible from the street. The shop has regular opening hours and sometimes only one employee, woman
+- **Intent:** Very high, because gold prices are rising and stealing gold can bring more money to criminals
+
+**Impact:** Around €180 000 = stolen jewellery €150 000 + repairs €20 000 + lost sales €10 000
+
+**Likelihood:** Around 8% per year
+
+**Estimated annual loss:** `0.08 × €180 000 = €14 400/ year`.
+
+---
+
+## Risk 2 – Customer Database Exposed
+
+**What criminals want:** Customer names, addresses and possibly payment information. This information can also be used to find wealthy customers and rob their homes,  and the shop won't even know that its database was used
+
+**How:** Phishing emails, stolen passwords or weak security on the website or payment system.
+
+**Why us (COI):**
+
+- **Capability:** Hackers can use existing phishing and ransomware tools
+- **Opportunity:** Small shops usually do not have strong IT and data security
+- **Intent:** Moderate to high, because customer information can be valuable for criminals
+
+**Impact:** Around €90 000 (possible GDPR law cases, fixing the problem and losing customers)
+
+**Likelihood:** Around 12% per year.
+
+**Estimated annual loss:** `0.12 × €90 000 = €10 800/year`.
+
+---
+
+## Biggest Risk – Armed Robbery
+
+The biggest risk is armed robbery, with an estimated annual loss of **€14 400**.
+
+## Decision – META: Mitigate + Transfer
+
+**Mitigate:** We can reduce the risk by keeping expensive jewellery in a safe during the night. Instead of real jewellery, we can put cheap jewellery from China in the display windows after closing. This way the shop still looks attractive, but criminals cannot steal expensive products from the windows at night.
+
+We can also install cameras, alarms and stronger display windows. Employees should not open or close the shop alone.
+
+**Transfer:** We should also buy insurance that covers stolen jewellery, damage to the shop and lost income if the shop needs to close for some time.
+
+### Why not eliminate or accept?
+
+We cannot completely eliminate this risk without closing the shop. Also, accepting the risk is not a good idea because €14,400 expected annual loss is too much for a small business. One serious robbery could create big financial problems.
+
+For this reason, I think the best solution is to **reduce the risk and use insurance for the remaining risk**.
+
+---
