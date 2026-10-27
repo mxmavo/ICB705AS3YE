@@ -37,7 +37,7 @@ AI used for cybercrime like phishing, social engineering, malware, payloads, rev
 - AI strengthens defence but also opens new attack routes
 - Safety filters can be broken, even with ethics safe measures
 - LLMs should assist experts, not replace them
-- Hallucination of LLMs is still open question and causes a lot of issues
+- Hallucination of LLMs is still significant concern
 
 3. What are the open questions?
 
