@@ -49,9 +49,7 @@ AI used for cybercrime like phishing, social engineering, malware, payloads, rev
 
 ## Threat modeling quickrun Jewellery Shop
 
-# Risk Assessment – Jewellery Shop
-
-**Crown jewels:** Jewellery Shop - the most important things for the shop are gold and diamonds, cash, customer database (names and addresses of rich people).
+Jewellery Shop - the most important things for the shop are gold and diamonds, cash, customer database (names and addresses of rich people).
 
 ---
 
