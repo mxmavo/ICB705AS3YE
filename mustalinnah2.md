@@ -5,7 +5,7 @@
 [Read the article on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2667345226000076)
 
 
-## Review of Generative AI methods in cybersecurity
+## Review of Generative AI methods in cybersecurity article
 
 This is the article I find interesting, it is a review article with JUFO rating 1 and it is fresh, from year 2025
 
