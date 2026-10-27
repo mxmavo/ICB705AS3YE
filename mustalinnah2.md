@@ -107,8 +107,7 @@ We can also install cameras, alarms and stronger display windows. Employees shou
 
 ### Why not eliminate or accept?
 
-We cannot completely eliminate this risk without closing the shop. Also, accepting the risk is not a good idea because €14,400 expected annual loss is too much for a small business. One serious robbery could create big financial problems.
-
+We cannot completely eliminate this risk without closing the shop. One serious robbery could create big financial problems.
 For this reason, I think the best solution is to **reduce the risk and use insurance for the remaining risk**.
 
 ---
