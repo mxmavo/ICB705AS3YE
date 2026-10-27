@@ -34,8 +34,16 @@ AI used for cybercrime like phishing, social engineering, malware, payloads, rev
 
 2. What's widely agreed upon?
 
+- AI strengthens defence but also opens new attack routes
+- Safety filters can be broken, even with ethics safe measures
+- LLMs should assist experts, not replace them
 
 3. What are the open questions?
+
+- Dark tools like WolfGPT, XXXGPT and WormGPT exist, but nobody has measured their real offensive power
+- The real trend is jailbreaking mainstream models, not building new ones
+- Law and ownership lag behind, as AI and human work blur together
+-  Main future focus to build strong ethical norms and new defences, with interdisciplinary work
 
 
 ## Threat modeling quickrun
