@@ -33,6 +33,10 @@ So here comes the outcome if a model passes a safety test, that does not prove i
 
 c) Science that
 
+In my h1, the review said that safety filters can be broken. It also said the real trend was jailbreaking mainstream models, not building new dark models like WormGPT. This new paper shows a third way, which is worse. The model is not jailbroken from outside. It is clean on the surface but has a hidden part from the start. This supports the reviews point that AI opens new attack routes. It also shows how fast the field moves. One year after the review, its picture of attacks already looks incomplete, as I wrote in h1.
+
+
+
 
 
 ## REFERENCES
