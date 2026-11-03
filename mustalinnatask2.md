@@ -13,6 +13,9 @@ A total of 97 people were arrested, almost all of them men. Interesting, I had c
 b) https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html
 https://arxiv.org/abs/2610.13928
 
+Hiding Capabilities in AI Models
+
+Source: Bruce Schneier’s blog, 27 October 2026. It points to the arXiv paper “AI Models Can Provably Hide Arbitrary Capabilities” by Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas, Christian Schroeder de Witt
 
 
 
