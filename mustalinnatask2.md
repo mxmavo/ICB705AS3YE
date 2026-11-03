@@ -27,7 +27,7 @@ What they did:
 
 2) Because of the encryption, the hidden part is very hard to find or understand, even when you can see all the model weights. 
 
-3)They tested it with a small chemistry task. It stands in for dangerous CBRN (chemical, biological, radiological, nuclear) knowledge. Normal ways to find hidden skills did not work. These included fine-tuning, adding noise to weights, searching for the trigger, and adversarial training. 
+3) They tested it with a small chemistry task. It stands in for dangerous CBRN (chemical, biological, radiological, nuclear) knowledge. Normal ways to find hidden skills did not work. These included fine-tuning, adding noise to weights, searching for the trigger, and adversarial training. 
 
 So here comes the outcome if a model passes a safety test, that does not prove it is safe. A bad actor can hide a skill so good that testing cannot find it. So who made the model and where you got it matters a lot, worth checking always.
 
@@ -40,7 +40,7 @@ c) Science that
 
 - Schneier, B. (2026). Hiding Capabilities in AI Models. https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html
 
--Draguns, A., Motwani, S. R., Douglas, R., Schroeder de Witt, C. (2026). AI Models Can Provably Hide Arbitrary Capabilities. arXiv:2610.13928. 
+- Draguns, A., Motwani, S. R., Douglas, R., Schroeder de Witt, C. (2026). AI Models Can Provably Hide Arbitrary Capabilities. arXiv:2610.13928. 
 https://arxiv.org/pdf/2610.13928
 
--My h1: https://github.com/mxmavo/ICB705AS3YE/blob/main/mustalinnah2.md
+- My h1: https://github.com/mxmavo/ICB705AS3YE/blob/main/mustalinnah2.md
