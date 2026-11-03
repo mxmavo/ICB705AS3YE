@@ -18,3 +18,16 @@ https://arxiv.org/abs/2610.13928
 
 c) Science that
 
+
+
+## REFERENCES
+
+Schneier, B. (2026). Hiding Capabilities in AI Models. https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html
+Draguns, A., Motwani, S. R., Douglas, R., Schroeder de Witt, C. (2026). AI Models Can Provably Hide Arbitrary Capabilities. arXiv:2610.13928. https://arxiv.org/abs/2610.13928
+My h1: https://github.com/mxmavo/ICB705AS3YE/blob/main/mustalinnah2.md
+
+## Sources:
+
+Hiding Capabilities in AI Models – Schneier on Security
+AI Models Can Provably Hide Arbitrary Capabilities – arXiv
+mustalinnah2.md – GitHub
