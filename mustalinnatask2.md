@@ -18,8 +18,7 @@ Hiding Capabilities in AI Models
 Source: Bruce Schneier’s blog, 27 October 2026. It points to the arXiv paper “AI Models Can Provably Hide Arbitrary Capabilities” by Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas, Christian Schroeder de Witt
 
 
-Before a company releases an AI model, it tests the model for dangerous skills. These tests only work if every hidden skill can be found. The authors show this idea fails when an attacker is involved. 
-arxiv
+Before a company releases an AI model, it tests the model for dangerous skills. These tests only work if every hidden skill can be found. The authors show this idea fails when an attacker is involved.
 
 What they did:
 
