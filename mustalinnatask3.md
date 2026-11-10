@@ -15,11 +15,12 @@ https://github.com/johannaheinonen/johanna-test-repo/blob/main/module_1.md
 Installation went ok,  nithing speacial based on  Johanna Heinonen notes
 
 
-IMG_8674.jpg
+![BIOS VT-x setting](IMG_8674.jpg)
 
-IMG_8675.jpg
+![Linux installation](IMG_8675.jpg)
 
-IMG_8676.jpg
+![Linux installation 2](IMG_8676.jpg)
+
 
 
 
