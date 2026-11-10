@@ -17,6 +17,10 @@ good overview on command promit, nothing speacial to add
 
 # b) Linux. Install Linux on a virtual machine. Use Debian 13-Trixie.
 
+
+I bit slow process, took a few days to install, since machine is pretty basic.
+
+
 debian-live-13.6.0-amd64-xfce.iso link is broken here
 https://github.com/johannaheinonen/johanna-test-repo/blob/main/module_1.md
 
