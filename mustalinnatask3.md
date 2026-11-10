@@ -1,16 +1,18 @@
 
 
-##MUSTA LINNA
+# MUSTA LINNA
 
-#x) Read/watch/listen and summarize
+## x) Read/watch/listen and summarize
 
-#a)
+# a)
 
 
-#b) Linux. Install Linux on a virtual machine. Use Debian 13-Trixie.
+# b) Linux. Install Linux on a virtual machine. Use Debian 13-Trixie.
 
 debian-live-13.6.0-amd64-xfce.iso link is broken here
 https://github.com/johannaheinonen/johanna-test-repo/blob/main/module_1.md
+
+Installation went ok,  nithing speacial based on  Johanna Heinonen notes
 
 
 
