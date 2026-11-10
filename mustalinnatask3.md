@@ -36,11 +36,8 @@ Installation went ok,  nithing speacial based on  Johanna Heinonen notes
 
 # c) Crack. Crack the hash 6b1628b016dff46e6fa35684be6acc96 . Install hashcat and follow the steps in the article to crack the example hash. Karvinen 2022: Cracking Passwords with Hashcat.
 
-  hashcat -m 0 6b1628b016dff46e6fa35684be6acc96 rockyou.txt --show
 
+hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
 
-
-
-#c) Crack. Crack the hash 6b1628b016dff46e6fa35684be6acc96 . Install hashcat and follow the steps in the article to crack the example hash. Karvinen 2022: Cracking Passwords with Hashcat.
-
+6b1628b016dff46e6fa35684be6acc96:summer
 
