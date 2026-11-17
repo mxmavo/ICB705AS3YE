@@ -65,7 +65,7 @@ Feed	URL
 ## e) Follow security feeds for a while. What did you learn? What are the benefits and downsides of following feeds with a reader, compared to some other methods of following cyber security scene?
 
 
-I saw how many new vulnerabilities come out every day, in products like Citrix NetScaler, GitLab, PHP, LibreOffice and Samsung phones. Many of them are critical. Attackers are fast too for example, SANS ISC reported scans for new LiteLLM vulnerabilities soon after they were published, so patching quickly is very important. The benefit of a feed reader is that everything comes to one place automatically, in time order, and only from sources I chose.
+- I saw how many new vulnerabilities come out every day, in products like Citrix NetScaler, GitLab, PHP, LibreOffice and Samsung phones. Many of them are critical. Attackers are fast too for example, SANS ISC reported scans for new LiteLLM vulnerabilities soon after they were published, so patching quickly is very important. The benefit of a feed reader is that everything comes to one place automatically, in time order, and only from sources I chose.
 
 
 ## f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
