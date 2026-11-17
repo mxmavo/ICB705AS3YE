@@ -17,7 +17,7 @@ c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
 
 ## d) Find and add two more security related feeds. Explain how you found them, and why you chose them.
 
-Well, trusting goverments about security issues, so didn't try to find anything else,  wanted to know only official sources
+Well, trusting goverments about security issues, so didn't try to find anything else,  wanted to know only official sources. I looked for official national and EU-level CERTs
 
 Feed	URL
 - NCSC-FI (Kyberturvallisuuskeskus) – vulnerabilities summary	https://www.kyberturvallisuuskeskus.fi/files/rss/vulns.xml
@@ -25,7 +25,7 @@ Feed	URL
 - CERT-EU – Security Advisories	https://cert.europa.eu/publications/security-advisories-rss
 
 
-- CISA – Cybersecurity Alerts & Advisories (all)	https://www.cisa.gov/cybersecurity-advisories/all.xml
+- CISA – Cybersecurity Alerts & Advisories	https://www.cisa.gov/cybersecurity-advisories/all.xml
 
 
 
