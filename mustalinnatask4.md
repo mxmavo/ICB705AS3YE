@@ -8,7 +8,7 @@ no need to check many sources.  Of course no noise, no banners, no ads, no cooki
 
 
 
-# y) Supreme court of Finland, case Osuuspankkikeskus port scan KKO:2003:36. Have a brief look, summarize the key thing in a couple of bullets or sentences
+## y) Supreme court of Finland, case Osuuspankkikeskus port scan KKO:2003:36. Have a brief look, summarize the key thing in a couple of bullets or sentences
 
 
 In 2003 the Supreme Court of Finland decided case mentioned above. A teenage boy used a program to scan the network of Osuuspankkikeskus . He was looking for open proxy servers. The scan did not go through the firewall, so he did not get inside but the court said he was guilty of attempted computer break in and he had to pay damages.
@@ -21,7 +21,7 @@ In 2003 the Supreme Court of Finland decided case mentioned above. A teenage boy
 - The court trusted the IP address as evidence. It did not accept the idea that somebody faked it
 
 
-# a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this.
+## a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this.
 
 
 Following security related feeds
@@ -29,7 +29,7 @@ Following security related feeds
 ![Feed reader](feedreader.png)
 
 
-# b) Add the feed for Krebs. https://krebsonsecurity.com/feed/
+## b) Add the feed for Krebs. https://krebsonsecurity.com/feed/
 
 Following Krebs
 
@@ -37,7 +37,7 @@ Following Krebs
 ![Feed reader](feedreader2.png)
 
 
-# c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
+## c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
 
 
 Following Schneier on Security, https://www.schneier.com/feed/
@@ -62,13 +62,12 @@ Feed	URL
 
 
 
-# e) Follow security feeds for a while. What did you learn? What are the benefits and downsides of following feeds with a reader, compared to some other methods of following cyber security scene?
+## e) Follow security feeds for a while. What did you learn? What are the benefits and downsides of following feeds with a reader, compared to some other methods of following cyber security scene?
 
 
-answer 
+I saw how many new vulnerabilities come out every day, in products like Citrix NetScaler, GitLab, PHP, LibreOffice and Samsung phones. Many of them are critical. Attackers are fast too for example, SANS ISC reported scans for new LiteLLM vulnerabilities soon after they were published, so patching quickly is very important. The benefit of a feed reader is that everything comes to one place automatically, in time order, and only from sources I chose.
 
 
-
-# f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
+## f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
 
 - criminals use a port scanner like nmap, it shows which ports are open and which program and version is running on them then they look for known bugs in that version. They can also look on sites like Shodan, which scan the whole internet all the time
