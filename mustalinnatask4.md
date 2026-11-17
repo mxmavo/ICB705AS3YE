@@ -4,7 +4,7 @@
 ## x) Why would you want to use a feed reader (and RSS/Atom)?
 
 - Mainly because no personalization or any other advanced filters apply to those lists. Also aggregator saves time 
-no need to check many sources.
+no need to check many sources.  Of course no noise, no banners, no ads, no cookie madness.
 
 
 
