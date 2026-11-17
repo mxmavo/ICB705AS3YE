@@ -50,7 +50,6 @@ Following Schneier on Security, https://www.schneier.com/feed/
 
 Well, trusting goverments about security issues, so didn't try to find anything else,  wanted to know only official sources. I looked for official national and EU-level CERTs
 
-Feed	URL
 - NCSC-FI (Kyberturvallisuuskeskus) – vulnerabilities summary	https://www.kyberturvallisuuskeskus.fi/files/rss/vulns.xml
 
 - CERT-EU – Security Advisories	https://cert.europa.eu/publications/security-advisories-rss
