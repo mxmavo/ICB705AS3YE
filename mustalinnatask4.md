@@ -63,10 +63,5 @@ answer
 
 
 # f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
-Install nmap port scanner
-Disconnect from the internet. Show that 'ping 8.8.8.8' stops working when internet is disconnected.
-Port scan your own computer. Use "localhost" as the address.
-Install a daemon
-Port scan again
-Analyze and explain the results
-Do not scan random computers.
+
+- criminals use a port scanner like nmap, it shows which ports are open and which program and version is running on them then they look for known bugs in that version. They can also look on sites like Shodan, which scan the whole internet all the time
