@@ -21,14 +21,21 @@ In 2003 the Supreme Court of Finland decided case mentioned above. A teenage boy
 - The court trusted the IP address as evidence. It did not accept the idea that somebody faked it
 
 
-a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this.
+# a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this.
 
 
-b) Add the feed for Krebs. https://krebsonsecurity.com/feed/
+answer
 
 
-c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
+# b) Add the feed for Krebs. https://krebsonsecurity.com/feed/
 
+asnwer
+
+
+# c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
+
+
+answer
 
 ## d) Find and add two more security related feeds. Explain how you found them, and why you chose them.
 
@@ -46,10 +53,14 @@ Feed	URL
 
 
 
-e) Follow security feeds for a while. What did you learn? What are the benefits and downsides of following feeds with a reader, compared to some other methods of following cyber security scene?
+# e) Follow security feeds for a while. What did you learn? What are the benefits and downsides of following feeds with a reader, compared to some other methods of following cyber security scene?
 
 
-f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
+answer 
+
+
+
+# f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
 Install nmap port scanner
 Disconnect from the internet. Show that 'ping 8.8.8.8' stops working when internet is disconnected.
 Port scan your own computer. Use "localhost" as the address.
