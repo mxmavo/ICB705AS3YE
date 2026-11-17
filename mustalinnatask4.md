@@ -24,7 +24,9 @@ In 2003 the Supreme Court of Finland decided case mentioned above. A teenage boy
 # a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this.
 
 
-answer
+Following security related feeds
+
+![Feed reader](feedreader.png)
 
 
 # b) Add the feed for Krebs. https://krebsonsecurity.com/feed/
