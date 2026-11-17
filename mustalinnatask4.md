@@ -8,7 +8,17 @@ no need to check many sources.  Of course no noise, no banners, no ads, no cooki
 
 
 
-y) Supreme court of Finland, case Osuuspankkikeskus port scan KKO:2003:36. Have a brief look, summarize the key thing in a couple of bullets or sentences
+# y) Supreme court of Finland, case Osuuspankkikeskus port scan KKO:2003:36. Have a brief look, summarize the key thing in a couple of bullets or sentences
+
+
+In 2003 the Supreme Court of Finland decided case mentioned above. A teenage boy used a program to scan the network of Osuuspankkikeskus . He was looking for open proxy servers. The scan did not go through the firewall, so he did not get inside but the court said he was guilty of attempted computer break in and he had to pay damages.
+
+- Port scanning without permission can be a crime in Finland, even if you do not get in
+- The court said the program was clearly made for this, so it was not believable that he used it for something harmless
+- Motive was not important. The crime does not need a special purpose
+- He also had to pay damages to the bank
+- It was not important that he did not know the target was a bank
+- The court trusted the IP address as evidence. It did not accept the idea that somebody faked it
 
 
 a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this.
