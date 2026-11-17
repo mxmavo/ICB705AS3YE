@@ -1,6 +1,11 @@
 
+# MUSTA LINNA
 
-x) Why would you want to use a feed reader (and RSS/Atom)?
+## x) Why would you want to use a feed reader (and RSS/Atom)?
+
+- Mainly because no personalization or any other advanced filters apply to those lists. Also aggregator saves time 
+no need to check many sources.
+
 
 
 y) Supreme court of Finland, case Osuuspankkikeskus port scan KKO:2003:36. Have a brief look, summarize the key thing in a couple of bullets or sentences
