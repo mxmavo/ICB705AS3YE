@@ -31,13 +31,20 @@ Following security related feeds
 
 # b) Add the feed for Krebs. https://krebsonsecurity.com/feed/
 
-asnwer
+Following Krebs
+
+
+![Feed reader](feedreader2.png)
 
 
 # c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
 
 
-answer
+Following Schneier on Security, https://www.schneier.com/feed/
+
+![Feed reader](feedreader3.png)
+
+
 
 ## d) Find and add two more security related feeds. Explain how you found them, and why you chose them.
 
