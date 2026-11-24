@@ -51,7 +51,7 @@ I use 1Password as my password manager. In the screenshot you can see I saved th
 
 People who dont use a password manager often use the same simple password everywhere. Attackers can take advantage of this in a few ways:
 
+- a fake website looks like the real one and you type your password there. 1Password only autofills on the real domain so if it doesn't fill, that's a warning sign
 - when one website gets hacked, attackers try the leaked username and password on other websites. If you reuse your password they get into your other accounts too.
 - short or common passwords like "mydogname" are easy to guess with programs that try many passwords. A long random password from a password manager is almost impossible to guess
-- a fake website looks like the real one and you type your password there. 1Password only autofills on the real domain so if it doesn't fill, that's a warning sign
 - people without a manager often keep passwords on paper or in a text file and anyone who finds it can read it
