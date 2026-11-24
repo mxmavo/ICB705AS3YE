@@ -23,7 +23,7 @@ In real life, public-key crypto is slow and has some weaknesses, so it is not us
 ## a) Pubkey today. Explain how you have used public key cryptography today or yesterday, outside of this homework. In addition to naming the system, identify how different parties use keys in different steps of the system. (Answering this question likely requries finding sources on your own. This subtask does not require tests with a computer.)
 
 
-Yesterday I used SSH to connect from my laptop to my web server at janutex.com. When I connected the server and my laptop first did a Diffie Hellman key exchange. 
+I used SSH to connect from my laptop to my web server at janutex.com. When I connected the server and my laptop first did a Diffie Hellman key exchange. 
 
 ssh admin@janutex.com
 
@@ -38,11 +38,9 @@ Because of this, I could log in securely without sending a password over the net
 
 ## b) Encrypt and decrypt a message. Explain how different parties use different keys at different stages of operation. Evaluate the security of the tool you've chosen.
 
-My machine's hardware failed for some reason after running virtual machine, windows machine, had to do tasks differently
+My machine's hardware failed for some reason after running virtual machine, windows machine, had to do tasks differently. I used gpg and made two folders, alice and bob, so I could test two people on one computer. Both made their own key pair. Bob gave his public key to Alice, and Alice checked the fingerprint so she knew it was really Bob's key. Alice wrote "Hello Bob, meet me at 10." and encrypted it with Bob's public key. Inside, gpg makes a random session key, encrypts the message with fast AES, and then encrypts only the session key with Bob's public key. The encrypted file was unreadable, and Alice could not decrypt it herself. Bob used his private key to open the session key and got the message back. GPG is open source and uses strong modern algorithms, so the encryption is secure. The weak points are the user: you must check fingerprints to stop a man-in-the-middle with a fake key, and you must protect the private key with a good passphrase. There is also no forward secrecy, so if Bob's private key is stolen later, his old messages can be read.
 
-
-
-
+![Gpg](gpg_step3.png)
 
 ## c) Password management. Demonstrate use of a password manager. What kind of attacks take advantage of people not using password managers? (You can use any password manager, some examples include pass and KeePassXC.)
 
