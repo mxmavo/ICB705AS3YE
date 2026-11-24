@@ -5,6 +5,17 @@
 
 ![Schneie](Schneier-terminology.png)
 
+# Schneier 2015: Applied Cryptography, Chapter 1.1 Terminology
+
+Cryptography is about a sender who wants to send a message to a receiver so that nobody else can read it. The normal message is called plaintext. Encryption turns it into ciphertext, which looks like random data, and decryption turns it back into plaintext. Cryptography can also prove who sent a message (authentication), show that nobody changed it (integrity), and stop the sender from later denying that they sent it (nonrepudiation).
+
+The algorithm, or cipher, is the math used for encrypting and decrypting. Old algorithms were secure only if the algorithm itself stayed secret, and that is a bad idea. Modern algorithms use a key, so the algorithm can be public and all the security is in the key. In symmetric algorithms the same key is used to encrypt and decrypt, so both people must share the secret key before they can talk. In public-key (asymmetric) algorithms there are two different keys: anyone can encrypt with the public key, but only the owner of the private key can decrypt.
+
+# Schneier 2015: Chapter 2.5 Communications Using Public-Key Cryptography
+
+Schneier compares symmetric crypto to a safe, where everyone needs the same combination, and public-key crypto to a mailbox. Anyone can put a letter in the mailbox, but only the owner with the key can take it out. When Alice wants to send a secret message to Bob, she gets Bob's public key and encrypts the message with it, and Bob decrypts it with his private key. They don't need to meet and share a secret key first, and this solves a big problem of symmetric crypto.
+
+In real life, public-key crypto is slow and has some weaknesses, so it is not used to encrypt the whole message. Instead, Alice makes a random session key, encrypts it with Bob's public key, and sends it to Bob. After that they both use this session key with a fast symmetric algorithm. This is called a hybrid cryptosystem, and tools like GPG and SSH work this way. Schneier also tells about Merkle's puzzles, the first public-key idea from 1974. It made the attacker do much more work than Alice and Bob.
 
 
 
