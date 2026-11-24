@@ -38,8 +38,10 @@ Because of this, I could log in securely without sending a password over the net
 
 ## b) Encrypt and decrypt a message. Explain how different parties use different keys at different stages of operation. Evaluate the security of the tool you've chosen.
 
+My machine's hardware failed for some reason after running virtual machine, windows machine, had to do tasks differently
 
-answer here
+
+
 
 
 ## c) Password management. Demonstrate use of a password manager. What kind of attacks take advantage of people not using password managers? (You can use any password manager, some examples include pass and KeePassXC.)
