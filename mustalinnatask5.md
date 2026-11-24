@@ -11,7 +11,7 @@ answer here
 
 Yesterday I used SSH to connect from my laptop to my web server at janutex.com. When I connected the server and my laptop first did a Diffie Hellman key exchange. 
 
-ssh user@janutex.com
+ssh admin@janutex.com
 
 Each side sent the other a temporary public key, and both used them to calculate the same shared secret, which then encrypted the session. The server proved it was really janutex.com by signing the exchange with its private host key.
 
