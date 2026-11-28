@@ -1,7 +1,10 @@
-x) Read and summarize 
+## MUSTA LINNA
+
+# x) Read and summarize 
 
 
-answer here
+What is Kybermittari?
+Kybermittari (Cybermeter) is a free national cybersecurity assessment framework from the Finnish National Cyber Security Centre (NCSC-FI) at Traficom. Organisations use it to assess and improve their cybersecurity and to compare themselves with others. It is mostly based on the NIST Cybersecurity Framework and the U.S. DOE's C2M2 model
 
 
 
